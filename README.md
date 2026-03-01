@@ -19,6 +19,12 @@ spending data exported from Revolut (2021-2024) during my studies in Budapest.
 - Plotly, Dash — interactive visualization and dashboard
 - Jupyter Notebook — exploratory data analysis
 
+## Dashboard Preview
+
+![Summary Stats](Screenshot%202026-03-01%20at%2022.20.35.png)
+![Spending by Category](Screenshot%202026-03-01%20at%2022.20.52.png)
+![Monthly Trend](Screenshot%202026-03-01%20at%2022.21.06.png)
+
 ## How to Run
 pip install -r requirements.txt
 python my_dashboard.py
