@@ -8,7 +8,7 @@ df['Started Date'] = pd.to_datetime(df['Started Date'])
 df['Month'] = df['Started Date'].dt.month
 df['Year'] = df['Started Date'].dt.year
 df['DayOfWeek'] = df['Started Date'].dt.day_name()
-
+df = df[~df['Category'].isin(['Transfer', 'Currency Exchange', 'Sent money', 'Sent Money'])]
 
 
 exclude = ['Transfer', 'Currency Exchange', 'Sent money', 'Sent Money']
