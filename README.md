@@ -21,7 +21,7 @@ spending data exported from Revolut (2021-2024) during my studies in Budapest.
 
 ## Dashboard Preview
 
-![Summary Stats](Screenshot%2026-03-01%at%22.20.52.png)
+![Dashboard](Screenshot%202026-03-01%20at%2022.32.13.png)
 ![Spending by Category](Screenshot%202026-03-01%20at%2022.20.52.png)
 ![Monthly Trend](Screenshot%202026-03-01%20at%2022.21.06.png)
 
